@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EmployeePractice
+Bundle-SymbolicName: EmployeePractice
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.example.animal,
+ com.example.banking,
+ com.example.business,
+ com.example.db,
+ com.example.domain,
+ com.example.shirt
